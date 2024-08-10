@@ -16,7 +16,7 @@ This project was developed as part of CSC 33600 - Introduction to Database Syste
 - Lesson + content viewing and management
 - Student dashboard
 - Instructor center
-- Course explorer
+- Course explorer (guest)
 - Platform revenue metrics
 
 ## Technologies Used
