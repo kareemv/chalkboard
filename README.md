@@ -29,7 +29,7 @@ This project was developed as part of CSC 33600 - Introduction to Database Syste
 ## Project Structure
 
 ```
-chalkboard-main
+chalkboard
 ├── client (Frontend)
 │   ├── src
 │   │   ├── components
