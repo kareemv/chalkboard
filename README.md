@@ -4,6 +4,10 @@ Chalkboard is a full-stack web application which serves as a peer-to-peer course
 
 This project was developed as part of CSC 33600 - Introduction to Database Systems at The City College of New York.
 
+## Screenshot
+
+![Chalkboard Homepage](./images/landing-page.png)
+
 ## Features
 
 - User authentication (login/register)
